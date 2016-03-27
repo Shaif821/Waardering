@@ -1,0 +1,17 @@
+body {
+   font-family: Verdana; 
+}
+
+.none {
+    background-image: url('http://22238.hosts.ma-cloud.nl/periode3/FOP/Waardering/Sterretjes/sterretjevol.png');
+}
+
+.none:hover {
+    background-image: url('http://22238.hosts.ma-cloud.nl/periode3/FOP/Waardering/Sterretjes/sterdrukpng.png');
+    cursor: pointer;
+}
+
+.none span {
+    
+    background-image: url('http://22238.hosts.ma-cloud.nl/periode3/FOP/Waardering/Sterretjes/sterretjeleeg.png')
+}
