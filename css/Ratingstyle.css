@@ -1,3 +1,10 @@
+#validatie img {
+    height: 1em;
+    width: auto;
+    border: 0;
+    margin: 0 .3em;
+}
+
 body {
    font-family: Verdana; 
 }
@@ -6,17 +13,17 @@ body {
     display: inline-block;
     width:50px;
     height: 47px;
-    background-image: url('http://22238.hosts.ma-cloud.nl/periode3/FOP/Waardering/Sterretjes/sterretjeleeg.png');
+    background-image: url('22238.hosts.ma-cloud.nl/periode3/FOP/Waardering/ster/sterretjeleeg050.jpg');
 }
 
 .geen:hover {
-    background-image: url('http://22238.hosts.ma-cloud.nl/periode3/FOP/Waardering/Sterretjes/sterdrukpng.png');
+    background-image: url('22238.hosts.ma-cloud.nl/periode3/FOP/Waardering/ster/sterretjevol050.jpg');
     cursor: pointer;
 }
 
 .geen span {
     display: inline-block;
     width: 0px;
-    height: 32px;
-    background-image: url('http://22238.hosts.ma-cloud.nl/periode3/FOP/Waardering/Sterretjes/sterretjevol.png')
+    height: 50px;
+    background-image: url('22238.hosts.ma-cloud.nl/periode3/FOP/Waardering/ster/sterdruk050.jpg')
 }
